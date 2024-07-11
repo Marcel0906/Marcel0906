@@ -49,7 +49,7 @@
   <img width="12" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo"  />
   <img width="12" />
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg" height="40" alt="npm logo"  />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-logo.svg" height="40" alt="npm logo"  />
   <img width="12" />
   
  
