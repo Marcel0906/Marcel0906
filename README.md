@@ -33,8 +33,6 @@
   <img width="12" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mdx/mdx-original.svg" height="40" alt="mdx logo"  />
-  <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="vitejs logo"  />
   <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
