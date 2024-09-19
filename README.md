@@ -57,6 +57,9 @@
   <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typo3/typo3-original.svg" height="40" alt="typo3 logo"  />
   <img width="12" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  
   
 
   
