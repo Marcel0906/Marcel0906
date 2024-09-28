@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I'm currently working on my Portfolio <br>📚 I'm currently studying at DCI (Digital Career Institute) <br>✨ Creating bugs since 2023<br>🎯 Goals: working as a full-time employee for a great Company<br>🎲 Fun fact: Bielefeld exists!</p>
+<p align="left">🔭 I'm currently working on my Portfolio <br>📚 Creating bugs since 2023<br>🎯 Goals: working as a full-time employee for a great Company<br>🎲 Fun fact: Bielefeld exists!</p>
 
 ###
 
