@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I'm currently working on my Portfolio <br>📚 Creating bugs since 2023 <br>🌱I´m currently will get a new job <br>👯 I´m looking to collaborate at an big project <br> 🎯 Goals: working as a full-time employee for a great Company<br>🎲 Fun fact: Bielefeld exists!</p>
+<p align="left">🔭 I'm currently working on my Portfolio <br>📚 Creating bugs since 2023 <br>🌱I´m currently will get a new job <br>👯 I´m looking to collaborate at an big project <br>✨ I´m currently learning PHP and Laravel🎯 Goals: working as a full-time employee for a great Company<br>🎲 Fun fact: Bielefeld exists!</p>
 
 ###
 
