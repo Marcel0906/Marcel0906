@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I'm currently working on my Portfolio <br>📚 Creating bugs since 2023 <br>🌱I´m currently a Senior Fellow at DCI, still looking for a new Job <br>👯 I´m looking to collaborate at an big project <br>✨ I´m currently learning PHP and Laravel <br>🎯 Goals: working as a full-time employee for a great Company<br>🎲 Fun fact: Bielefeld exists!</p>
+<p align="left">🔭 I'm currently working on my Portfolio <br>📚 Creating bugs since 2023 <br>🌱I´m currently a Senior Fellow at DCI, still looking for a new Job <br>👯 I´m looking to collaborate at an big project <br>✨ I´m currently learning Java <br>🎯 Goals: working as a full-time employee for a great Company<br>🎲 Fun fact: Bielefeld exists!</p>
 
 ###
 
