@@ -82,7 +82,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=marcel0906&locale=en&hide_title=false&theme=dracula&hide_border=false&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=marcel0906&locale=en&hide_title=false&theme=dracula&hide_border=false&order=3" height="180" alt="streak graph"  />
 </div>
 
 
